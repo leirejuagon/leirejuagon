@@ -1,3 +1,4 @@
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/cb606bec-e3d3-47b4-a12b-49cae0d955c7" />
 <h1 style="text-align:center"> Hi 👋, I'm Leire Juango González</h1>
 
 ### A passionate Front & UX/UI developer
