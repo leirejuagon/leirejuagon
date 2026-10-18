@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **leire.juango@gmail.com**
 
-- ⚡ Fun fact **Orange is my favourite color**
+- ⚡ Fun fact **I'm a cat lover and Orange is my color**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
