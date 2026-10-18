@@ -4,17 +4,17 @@
 ### A passionate Front & UX/UI developer
 
 
-- 🔭 I'm currently working on **Improve my skills in languages, use of AI in software development**
+ 🔭 I'm currently working on **Improve my skills in languages, use of AI in software development**
 
-- 🌱 I'm currently learning **PHP, Laravel, Typescript, Angular, React/Node.js**
+ 🌱 I'm currently learning **PHP, Laravel, Typescript, Angular, React/Node.js**
 
-- 👯 I'm looking to collaborate on **UX/UI design projects**
+ 👯 I'm looking to collaborate on **UX/UI design projects**
 
-- 💬 Ask me about **UX/UI design**
+ 💬 Ask me about **UX/UI design**
 
-- 📫 How to reach me **leirejuango@gmail.com**
+ 📫 How to reach me **leirejuango@gmail.com**
 
-- ⚡ Fun fact **I'm a cat lover and Orange is my color**
+ ⚡ Fun fact **I'm a cat lover and Orange is my color**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +26,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leirejuagon&show_icons=true&locale=en&layout=compact" alt="leirejuagon" /></p>
 
-<script src="https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js"></script>
+
+
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leirejuagon&show_icons=true&locale=en" alt="leirejuagon" /></p>
 
