@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **UX/UI design**
 
-- 📫 How to reach me **leire.juango@gmail.com**
+- 📫 How to reach me **leirejuango@gmail.com**
 
 - ⚡ Fun fact **I'm a cat lover and Orange is my color**
 
