@@ -14,7 +14,7 @@
 
  📫 How to reach me **leirejuango@gmail.com**
 
- ⚡ Fun fact **I'm a cat lover and Orange is my color**
+ ⚡ Fun facts :  **I'm a cats lover and orange is my color**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
