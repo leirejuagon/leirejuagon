@@ -31,9 +31,18 @@
  📫 Contact me by email  **leirejuango@gmail.com**
 
  🔆 Fun facts :  **I'm a cats lover and orange is my color**
-
-
-
+<br>
+<hr>
+<br>
+ <h2 align="center">SOFT SKILLS </h2>
+<ul>
+ <li>I'm a creative person, passionated for art & handcrafting</li>
+ <li>I am very outgoing and communicative</li>
+ <li>I'm a resolutive, problem solving person </li>
+ <li>I enjoy interacting with people from other countries and cultures. In fact, travelling is my passion </li>
+</ul>
+<br>
+<h2 align="center">HARD SKILLS </h2>
 
 <h3 align="left">OSs y Databases</h3>
 <hr>
