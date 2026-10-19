@@ -16,7 +16,7 @@
 
  🗨️ Ask me about **UX/UI design**
 
- 📫 How to reach me **leirejuango@gmail.com**
+ 📫 Contact me by email  **leirejuango@gmail.com**
 
  🔆 Fun facts :  **I'm a cats lover and orange is my color**
 
@@ -27,6 +27,7 @@
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leirejuagon" height="30" width="40" /></a>
 <a href="https://github.com/leirejuagon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="leirejuagon" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leirejuagon" height="30" width="40" /></a>
+ <a href="https://discord.gg/dgfgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dgfgg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">SSOO</h3>
