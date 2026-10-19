@@ -22,6 +22,10 @@
 
  🗣️ Always working on **Improve my skills in languages (🇬🇧 🇬🇷 🇩🇪) & AI tools**
 
+ 🎨 Graduated in [CFGS Interactive Graphics](https://www.escueladeartesantelmo.es/portfolio-item/grafica-interactiva-2/) in EASD San Telmo (Málaga) 
+
+ 💻 Currently studying [CFGS DAW (Web Application Development)](https://politecnicomalaga.com/estudiar/formacion-profesional/des-aplicaciones-web) in IES Politécnico Jesús Marín (Málaga)
+
  🌱 Learning **PHP, Laravel, Typescript, Angular, React/Node.js**
 
  👯 Pretending to collaborate on **UX/UI design projects**
@@ -30,7 +34,7 @@
 
  📫 Contact me by email  **leirejuango@gmail.com**
 
- 🔆 Fun facts :  **I'm a cats lover and orange is my color**
+ 🔆 Fun facts :  **I'm a cats lover and I'm absolutely obsessed with typography**
 <br>
 <hr>
 <br>
