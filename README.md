@@ -2,7 +2,7 @@
 [![gk](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/leirejuagon//README.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/leirejuagon//README.md)
 
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/cb606bec-e3d3-47b4-a12b-49cae0d955c7" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=timeGradient&section=header&reversal=true&text=Hello+world%21&textBg=false&fontSize=70&fontAlign=50&fontAlignY=35&animation=fadeIn&rotate=0&strokeWidth=0&desc=I%27m+Leire+Juango&descSize=30&descAlign=50&descAlignY=60" />
 
 
 ## UX/UI Designer &  FrontEnd Developer
