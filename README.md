@@ -1,6 +1,13 @@
+<a href="https://github.com/leirejuagon/leirejuagon/README.md"><img align="left" alt="Brazil" width="35px" style="padding-right:10px;" src="https://github.com/Robertooo25/Country-Flags/blob/main/rectangular_flags_SVG/united-kingdom-uk-svgrepo-com.svg"/></a>
+<a href="https://github.com/leirejuagon/leirejuagon/README.md"><img align="left" alt="Brazil" width="35px" style="padding-right:10px;" src="https://github.com/Robertooo25/Country-Flags/blob/main/rectangular_flags_SVG/spain-svgrepo-com.svg"/></a>
+<a href="https://github.com/leirejuagon/leirejuagon/README.md"><img align="left" alt="Brazil" width="35px" style="padding-right:10px;" src="https://github.com/Robertooo25/Country-Flags/blob/main/rectangular_flags_SVG/greece-svgrepo-com.svg"/></a>
+<a href="https://github.com/leirejuagon/leirejuagon/README.md"><img align="left" alt="Brazil" width="35px" style="padding-right:10px;" src="https://github.com/Robertooo25/Country-Flags/blob/main/rectangular_flags_SVG/germany-svgrepo-com.svg"/></a>
+<a href="https://github.com/leirejuagon/leirejuagon/README.md"><img align="left" alt="Brazil" width="35px" style="padding-right:10px;" src="https://github.com/Robertooo25/Country-Flags/blob/main/rectangular_flags_SVG/france-svgrepo-com.svg"/></a>
+<!--
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/leirejuagon//README.md)
 [![gk](https://img.shields.io/badge/lang-gr-green.svg)](https://github.com/leirejuagon//README.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/leirejuagon//README.md)
+-->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=timeGradient&section=header&reversal=true&text=Hello+world%21&textBg=false&fontSize=70&fontAlign=50&fontAlignY=35&animation=fadeIn&rotate=0&strokeWidth=0&desc=I%27m+Leire+Juango&descSize=30&descAlign=50&descAlignY=60" /></div>
 <hr>
