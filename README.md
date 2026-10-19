@@ -1,5 +1,5 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/leirejuagon//README.md)
-[![gk](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/leirejuagon//README.md)
+[![gk](https://img.shields.io/badge/lang-gr-green.svg)](https://github.com/leirejuagon//README.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/leirejuagon//README.md)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=timeGradient&section=header&reversal=true&text=Hello+world%21&textBg=false&fontSize=70&fontAlign=50&fontAlignY=35&animation=fadeIn&rotate=0&strokeWidth=0&desc=I%27m+Leire+Juango&descSize=30&descAlign=50&descAlignY=60" />
