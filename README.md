@@ -89,7 +89,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leirejuagon/leirejuagon/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leirejuagon/leirejuagon/output/pacman-contribution-graph.svg">
 </picture>
-
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leirejuagon&show_icons=true&locale=en&layout=compact" alt="leirejuagon" /></p>
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leirejuagon&show_icons=true&locale=en" alt="leirejuagon" /></p>
 
