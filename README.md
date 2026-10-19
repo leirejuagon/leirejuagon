@@ -1,15 +1,21 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/leirejuagon//README.md)
 [![gk](https://img.shields.io/badge/lang-gr-green.svg)](https://github.com/leirejuagon//README.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/leirejuagon//README.md)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=timeGradient&section=header&reversal=true&text=Hello+world%21&textBg=false&fontSize=70&fontAlign=50&fontAlignY=35&animation=fadeIn&rotate=0&strokeWidth=0&desc=I%27m+Leire+Juango&descSize=30&descAlign=50&descAlignY=60" />
-
-<p align="right">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=timeGradient&section=header&reversal=true&text=Hello+world%21&textBg=false&fontSize=70&fontAlign=50&fontAlignY=35&animation=fadeIn&rotate=0&strokeWidth=0&desc=I%27m+Leire+Juango&descSize=30&descAlign=50&descAlignY=60" /></div>
+<hr>
+<p align="center">
+ Connect with me:
+</p>
+<!-- from https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<p align="center">
  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leirejuagon" height="30" width="40" /></a>
 <a href="https://github.com/leirejuagon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="leirejuagon" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leirejuagon" height="30" width="40" /></a>
  <a href="https://discord.gg/dgfgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dgfgg" height="30" width="40" /></a>
 </p>
+<hr>
+<br><br>
 
 ## UX/UI Designer &  FrontEnd Developer
 
@@ -26,9 +32,7 @@
 
  🔆 Fun facts :  **I'm a cats lover and orange is my color**
 
-<h3 align="left">Connect with me:</h3>
-<!-- from https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<hr>
+
 
 
 <h3 align="left">OSs y Databases</h3>
@@ -83,14 +87,23 @@
 <img src="https://skillicons.dev/icons?i=idea" alt="idea" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=notion" alt="xd" width="40" height="40"/>
 </p>
+<hr>
+<br>
+<p align="center">And now, a bit of fun</p>
 <!-- [pacman] -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leirejuagon/leirejuagon/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leirejuagon/leirejuagon/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leirejuagon/leirejuagon/output/pacman-contribution-graph.svg">
 </picture>
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leirejuagon&show_icons=true&locale=en&layout=compact" alt="leirejuagon" /></p>
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leirejuagon&show_icons=true&locale=en" alt="leirejuagon" /></p>
 
+<p align="center"><a href="https://abozanona.github.io/pacman-contribution-graph/">generated with abozona</a></p>
+<hr>
+<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=timeGradient&section=footer&reversal=true&textBg=false&fontSize=70&fontAlign=50&fontAlignY=35&animation=fadeIn&rotate=0&strokeWidth=0&desc=See+you+on+the+Internet...+or+maybe+in+RL&descSize=30&descAlign=50&descAlignY=75">
+</div>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leirejuagon&show_icons=true&locale=en&layout=compact" alt="leirejuagon" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leirejuagon&show_icons=true&locale=en" alt="leirejuagon" /></p>
+<hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leirejuagon&" alt="leirejuagon" /></p>-->
