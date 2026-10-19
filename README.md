@@ -36,10 +36,12 @@
 <br>
  <h2 align="center">SOFT SKILLS </h2>
 <ul>
- <li>I'm a creative person, passionated for art & handcrafting</li>
- <li>I am very outgoing and communicative</li>
+ <li>I am a perfectionist and committed person</li>
+ <li>I'm a creative girl, passionated for art & handcrafting</li>
+ <li>I revel in combining tech & art</li>
  <li>I'm a resolutive, problem solving person </li>
- <li>I enjoy interacting with people from other countries and cultures. In fact, travelling is my passion </li>
+ <li>I am very outgoing and communicative</li>
+ <li>I enjoy interacting with people from other countries and cultures. In fact, travelling is a major passion for me</li>
 </ul>
 <br>
 <h2 align="center">HARD SKILLS </h2>
