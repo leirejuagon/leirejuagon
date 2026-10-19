@@ -3,26 +3,30 @@
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/leirejuagon//README.md)
 
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/cb606bec-e3d3-47b4-a12b-49cae0d955c7" />
-<h1 style="text-align:center"> Hello, world! 👋 I'm Leire Juango González</h1>
-
-### A passionate Front & UX/UI developer
 
 
- 🔭 I'm currently working on **Improve my skills in languages, use of AI in software development**
+## UX/UI Designer &  FrontEnd Developer
 
- 🌱 I'm currently learning **PHP, Laravel, Typescript, Angular, React/Node.js**
 
- 👯 I'm looking to collaborate on **UX/UI design projects**
+ 🗣️ Always working on **Improve my skills in languages (🇬🇧 🇬🇷 🇩🇪) & AI tools**
 
- 💬 Ask me about **UX/UI design**
+ 🌱 Learning **PHP, Laravel, Typescript, Angular, React/Node.js**
+
+ 👯 Pretending to collaborate on **UX/UI design projects**
+
+ 🗨️ Ask me about **UX/UI design**
 
  📫 How to reach me **leirejuango@gmail.com**
 
- ⚡ Fun facts :  **I'm a cats lover and orange is my color**
+ 🔆 Fun facts :  **I'm a cats lover and orange is my color**
 
 <h3 align="left">Connect with me:</h3>
+<!-- from https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<hr>
 <p align="left">
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leirejuagon" height="30" width="40" /></a>
 <a href="https://github.com/leirejuagon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="leirejuagon" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leirejuagon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">SSOO</h3>
