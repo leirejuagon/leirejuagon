@@ -83,13 +83,14 @@
 <img src="https://skillicons.dev/icons?i=idea" alt="idea" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=notion" alt="xd" width="40" height="40"/>
 </p>
-
+<!-- [pacman] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leirejuagon/leirejuagon/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leirejuagon/leirejuagon/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leirejuagon/leirejuagon/output/pacman-contribution-graph.svg">
+</picture>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leirejuagon&show_icons=true&locale=en&layout=compact" alt="leirejuagon" /></p>
-
-
-
-
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leirejuagon&show_icons=true&locale=en" alt="leirejuagon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leirejuagon&" alt="leirejuagon" /></p>-->
