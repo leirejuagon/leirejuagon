@@ -4,6 +4,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=timeGradient&section=header&reversal=true&text=Hello+world%21&textBg=false&fontSize=70&fontAlign=50&fontAlignY=35&animation=fadeIn&rotate=0&strokeWidth=0&desc=I%27m+Leire+Juango&descSize=30&descAlign=50&descAlignY=60" />
 
+<p align="right">
+ <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leirejuagon" height="30" width="40" /></a>
+<a href="https://github.com/leirejuagon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="leirejuagon" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leirejuagon" height="30" width="40" /></a>
+ <a href="https://discord.gg/dgfgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dgfgg" height="30" width="40" /></a>
+</p>
 
 ## UX/UI Designer &  FrontEnd Developer
 
@@ -23,17 +29,13 @@
 <h3 align="left">Connect with me:</h3>
 <!-- from https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <hr>
-<p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leirejuagon" height="30" width="40" /></a>
-<a href="https://github.com/leirejuagon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="leirejuagon" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leirejuagon" height="30" width="40" /></a>
- <a href="https://discord.gg/dgfgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dgfgg" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">OSs y Databases</h3>
 <hr>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=windows" alt="windows" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
 </p>
 
@@ -43,6 +45,7 @@
 <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=md" alt="md" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>
@@ -65,7 +68,8 @@
 <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=xd" alt="xd" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=notion" alt="xd" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=notion" alt="notion" width="40" height="40"/>
 
 </p>
 
@@ -76,6 +80,7 @@
 <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=visualstudio" alt="vsc" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=idea" alt="idea" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=notion" alt="xd" width="40" height="40"/>
 </p>
 
